@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil!
+## Bem-vindo(a) ao perfil de Lucinete Tavares!
 
   <div>
    <a href="https://github.com/Lucinete-Tavares">

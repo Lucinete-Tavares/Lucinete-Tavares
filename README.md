@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil!
+## Bem-vindx :) ao meu perfil!
 
   <div>
    <a href="https://github.com/Lucinete-Tavares">

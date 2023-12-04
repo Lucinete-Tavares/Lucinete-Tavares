@@ -17,7 +17,7 @@ jobs:
           github_user_name: ubiratan-motta
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: https://github.com/Lucinete-Tavares/Lucinete-Tavares
         with:
           target_branch: output
           build_dir: dist

@@ -23,7 +23,6 @@
   <a href="https://instagram.com/metade.tech?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-github-contribution-grid-snake.svg
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-![Snake animation](https://github.com/cadudias/cadudias/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Lucinete-Tavares/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Lucinete-Tavares/blob/output/github-contribution-grid-snake.svg)
 </div>

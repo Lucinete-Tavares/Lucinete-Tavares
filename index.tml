@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Snake Game</title>
+  <style>
+    /* Adicione estilos personalizados aqui, se desejar */
+  </style>
+</head>
+<body>
+  <!-- Adicione o código da cobrinha aqui -->
+  <script src="https://cdn.rawgit.com/straker/konami-js/master/konami.js"></script>
+  <script>
+    // Adicione o código da cobrinha aqui (pode ser obtido de um tutorial online)
+  </script>
+</body>
+</html>

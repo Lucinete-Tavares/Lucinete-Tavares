@@ -3,6 +3,10 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&pause=1000&color=FFFFFF&random=false&width=435&lines=Welcome+to+the+my+profile" alt="Typing SVG" /></a>
 </div>
 
+<div align="center">
+    <img src="https://github.com/Lucinete-Tavares/lucinete-tavares/blob/main/capa.png?raw=true">
+</div>
+
 <br>
 
 <div align="center">

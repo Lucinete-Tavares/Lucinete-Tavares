@@ -47,5 +47,6 @@ Let's code together!
     <a href = "http://gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <br>
+    ![Snake animation](https://github.com/cadudias/cadudias/blob/output/github-contribution-grid-snake.svg)
     <hr>
 </div>

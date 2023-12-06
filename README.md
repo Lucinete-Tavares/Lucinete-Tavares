@@ -4,6 +4,9 @@
    <a href="https://github.com/Lucinete-Tavares">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucinete-Tavares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucinete-Tavares&layout=compact&langs_count=6&theme=tokyonight"/>
+  </div>
+
+  <div>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lucinete-Tavares&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
   </div>
 

@@ -2,14 +2,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&pause=1000&color=FFFFFF&random=false&width=435&lines=Welcome+to+the+my+profile" alt="Typing SVG" /></a>
   </div>
 
-  <div align="center">
-    <img src="src/imagens/capa.png" height="400" width="100%" alt="">
-    <br>
-    Sobre mim
-    Entusiasta da tecnologia. Atualmente, explorando as vastas terras do código, aprendendo e evoluindo a cada linha. Aprendendo HTML, CSS, JAVASCRIPT e PYTHON, onde cada desafio é uma oportunidade de crescimento. Estou aberta a colaborações, conselhos e críticas construtivas que me ajudem a aprimorar minhas habilidades.
-    Este é apenas o começo da minha jornada no mundo da programação, e estou ansiosa para expandir minha base de conhecimento.
-</div>
-
   <div>
    <a href="https://github.com/Lucinete-Tavares">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucinete-Tavares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

@@ -6,12 +6,10 @@
 
    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
       <img src="https://img.shields.io/badge/license-MIT-66CDAA.svg" alt="License" />
-      <img src="https://img.shields.io/badge/version-1.0.0-F2CB15.svg" alt="Version" />
-      <img src="https://img.shields.io/badge/release-v1.0.0-2C82B5.svg" alt="Release Status" />
       <img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="Project Status" />
       <img src="https://img.shields.io/badge/maintenance-active-orange.svg" alt="Maintenance" />
       <img src="https://img.shields.io/badge/coverage-75%25-DA70D6.svg" alt="Coverage" />
-      <img src="https://img.shields.io/badge/rating-5%20stars-gold.svg" alt="Rating" />
+      <img src="https://img.shields.io/badge/rating-100%20stars-gold.svg" alt="Rating" />
    </div>
 <br>
    <p align="center">
@@ -19,20 +17,6 @@
    </p>
 </div>
 <br>
-<div align="center">
-   <p><b>Statistics and Sequence</b></p>
-   <div style="display: flex; justify-content: center;">
-      <a href="https://github.com/Lucinete-Tavares">
-         <img width="171px" src="https://github-readme-stats.vercel.app/api?username=Lucinete-Tavares&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-      </a>
-      <a href="https://github.com/Lucinete-Tavares">
-         <img width="153px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucinete-Tavares&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
-      </a>
-      <a href="https://git.io/streak-stats">
-         <img width="179px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucinete-Tavares&theme=tokyonight&hide_border=false"/>
-      </a>
-   </div>
-</div>
 <div align="center" style="display: inline-block;"><br>
   <p><b>I'm learning</b></p>
   <div style="display: flex; justify-content: center;">
@@ -42,22 +26,3 @@
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   </div>
 </div>
-<br>
-<div align="center" style="display: inline-block;">
-   <p><b>If you want to find me, just contact me on the networks below!</b></p>
-   <div style="display: flex; justify-content: center;">
-      <a href="https://discord.com/" target="_blank">
-         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-      </a>
-      <a href="mailto:franciscoeltondias@gmail.com">
-         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-      </a>
-      <a href="https://www.linkedin.com/in/cl%C3%A1udia-carttler-046413276/" target="_blank">
-         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-   </div>
-</div>
-<br>
-<p align="center"><b>GitHub Activity</b></p>
-
-   ![Snake animation](https://github.com/Lucinete-Tavares/Lucinete-Tavares/blob/output/github-contribution-grid-snake.svg)
